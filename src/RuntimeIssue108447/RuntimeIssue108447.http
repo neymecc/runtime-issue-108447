@@ -1,0 +1,6 @@
+@RuntimeIssue108447_HostAddress = http://localhost:5167
+
+GET {{RuntimeIssue108447_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
